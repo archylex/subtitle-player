@@ -1,0 +1,40 @@
+{
+	"lang" : "eng",
+	"sub" : {
+		"0" : {
+			"start" : "00:00:00.1",
+			"end" : "00:00:05.8",
+			"text" : "Mathematics has a language of its own, which uses numbers and symbols instead of words and punctuation."
+		},
+		"1" : {
+			"start" : "00:00:06.9",
+			"end" : "00:00:09.5",
+			"text" : "The earliest recorded numbers were marks made on a stick."
+		},
+		"2" : {
+			"start" : "00:00:10.7",
+			"end" : "00:00:14.5",
+			"text" : "These marks were made in small groups of, for example, two or five."
+		},
+		"3" : {
+			"start" : "00:00:15.5",
+			"end" : "00:00:23.1",
+			"text" : "Eventually these groups were given symbols of their own (2, 5, etc.) and a system of arithmetic developed."
+		},
+		"4" : {
+			"start" : "00:00:24.6",
+			"end" : "00:00:30.7",
+			"text" : "Mathematicians introduced special symbols to replace words such as \"plus\" and \"equals\"."
+		},
+		"5" : {
+			"start" : "00:00:31.5",
+			"end" : "00:00:35.1",
+			"text" : "They also introduced special words to express new ideas."
+		},
+		"6" : {
+			"start" : "00:00:35.8",
+			"end" : "00:00:42.1",
+			"text" : "Terms such as \"triangle\" and \"square\", for example, were applied to figures that are geometrically defined."
+		}
+	}
+}
